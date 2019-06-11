@@ -1,0 +1,1 @@
+{"uuid":"d177b51c-b7c8-42fb-9687-562b1367e959","name":"extentReportingDemo.nopCommerceTest.setUp","description":"","start":1557401478693,"stop":1557401587012,"children":["1c7ae6f5-40a6-47a8-a661-4c11f5ac64b0"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1557401478693,"stop":1557401587011}]}

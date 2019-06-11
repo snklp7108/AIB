@@ -1,0 +1,1 @@
+{"uuid":"c8a08020-00af-41cf-b59f-f8fba1693ef1","name":"extentReportingDemo.nopCommerceTest.tearDown","description":"","start":1557401247228,"stop":1557401247895,"children":["97ac41b8-98f2-4f38-b286-32ac6dfd721d"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1557401247228,"stop":1557401247895}]}
