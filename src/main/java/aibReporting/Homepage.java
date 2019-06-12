@@ -28,6 +28,7 @@ WebDriver ldriver;
 	
 	public void search() {
 		btnSearch.click();
+		System.out.println("You are in homepage");
 	}
 
 
